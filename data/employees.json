@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sara Ahmed",
+    "age": 34,
+    "position": "Product Manager",
+    "department": "Product",
+    "salary": 7500
+  },
+  {
+    "id": 2,
+    "name": "Hosein Miri",
+    "age": 34,
+    "position": "Front End Developer",
+    "department": "Product",
+    "salary": 7500
+  },
+  {
+    "id": 3,
+    "name": "Reza Baiani",
+    "age": 34,
+    "position": "Product Manager",
+    "department": "Product",
+    "salary": 7500
+  }
+]
