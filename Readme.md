@@ -1,4 +1,4 @@
-# Employee Management System
+# Go Employee Management Cli
 
 ## Overview
 This is a simple command-line Employee Management System written in Go. It allows users to add new employees to a JSON file and list all employees stored in the system.
